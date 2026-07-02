@@ -2,4 +2,5 @@
 Premier projet suivi avec Git.
 
 ## Objectif
-Comprendre le workflow Git de base.!!!
+Comprendre le workflow Git de base.
+Comprendre
